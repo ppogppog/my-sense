@@ -1,6 +1,10 @@
 ---
 title: "Sejong"
-author: "Chang Kwak"
+author: "Chang-Gyu Kwak"
 date: "2024-01-18"
-categories: [news]
+categories: [updates]
 ---
+
+Welcome to Sejong Univ.
+
+![](images/thumnail.jpg)
